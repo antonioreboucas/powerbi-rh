@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card_bar.svg" />
+    <img align="center" width="290" src="card_criador.svg" />
   </a>
 </p>
 <p align="center">
