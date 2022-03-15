@@ -1,11 +1,16 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card_titulo.svg" />
+    <img align="center" width="350" src="card_titulo.svg" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card_criador.svg" />
+    <img align="center" width="350" src="card_criador.svg" />
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img align="center" width="1040" src="card_telas_titulo.svg" />
   </a>
 </p>
 <p align="center">
